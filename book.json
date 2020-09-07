@@ -1,7 +1,7 @@
 {
-    "title": "BiliRec",
-    "description": "BiliRec自动录播使用说明",
-    "author": "Dreammer12138",
+    "title": "铁大校园网",
+    "description": "石家庄铁道大学校园网使用教程",
+    "author": "SeeNight",
     "language": "zh-hans",
     "plugins": [
         "-lunr", "-search", "search-pro",
@@ -11,7 +11,8 @@
         "sharing-plus",
         "tbfed-pagefooter",
         "-highlight",
-        "prism", "prism-themes"
+        "prism", "prism-themes",
+        "mygitalk"
     ],
     "pluginsConfig": {
         "sharing": {
@@ -37,6 +38,14 @@
             "css": [
               "prismjs/themes/prism-solarizedlight.css"
             ]
+        },
+        "mygitalk": {
+            "clientID": "f997f0370566fec3278e",
+            "clientSecret": "9e3d0c4c8706ad459f8b15a41e489c4f76525b51",
+            "repo": "CampusNetworkForSTDU",
+            "owner": "Dreammer12138",
+            "admin": ["Dreammer12138"],
+            "distractionFreeMode": false
         }
     }
 }
