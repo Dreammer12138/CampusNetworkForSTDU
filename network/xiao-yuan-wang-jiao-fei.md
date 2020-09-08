@@ -19,12 +19,12 @@
 
 1. 微信关注“铁大运营管理平台”
 
-   ![Screenshot\_20200907\_111149\_com.tencent.mm](https://github.com/Dreammer12138/CampusNetworkForSTDU/tree/c47eb775a424230cd7329ea65b55508c99c3df3d/Network//images/Screenshot_20200907_111149_com.tencent.mm.jpg)
+   ![Screenshot\_20200907\_111149\_com.tencent.mm](../.gitbook/assets/screenshot_20200907_111149_com.tencent.mm.jpg)
 
 2. 点击下方“网管缴费”
 3. 输入学号，点击查询
 
-   ![Screenshot\_20200907\_111200\_com.tencent.mm](https://github.com/Dreammer12138/CampusNetworkForSTDU/tree/c47eb775a424230cd7329ea65b55508c99c3df3d/Network//images/Screenshot_20200907_111200_com.tencent.mm.jpg)
+   ![Screenshot\_20200907\_111200\_com.tencent.mm](../.gitbook/assets/screenshot_20200907_111200_com.tencent.mm.jpg)
 
 4. 选择充值价格，付费充值
 
