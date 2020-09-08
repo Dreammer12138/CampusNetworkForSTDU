@@ -4,19 +4,19 @@
 
 1. 按 `Win + S` 组合键打开本地搜索，搜索“查看网络连接”，打开。
 
-   ![Win10 IP](https://github.com/Dreammer12138/CampusNetworkForSTDU/tree/c47eb775a424230cd7329ea65b55508c99c3df3d/Hardwave//images/5.png)
+   ![Win10 IP](../.gitbook/assets/5.png)
 
 2. 双击“以太网”，点击“属性”
 
-   ![IP](https://github.com/Dreammer12138/CampusNetworkForSTDU/tree/c47eb775a424230cd7329ea65b55508c99c3df3d/Hardwave//images/6.png)
+   ![IP](../.gitbook/assets/6.png)
 
 3. 双击“Internet 协议版本 4 \(TCP/IPv4\)”
 
-   ![IP](https://github.com/Dreammer12138/CampusNetworkForSTDU/tree/c47eb775a424230cd7329ea65b55508c99c3df3d/Hardwave//images/7.png)
+   ![IP](../.gitbook/assets/7.png)
 
 4. 点击 “使用下面的IP地址” 和 “使用下面的DNS服务器地址”，将注册校园网时得到的IP地址，子网掩码，默认网关都输入进去，在 “首选DNS服务器” 中填入自动DNS服务器地址。
 
-   ![IP](https://github.com/Dreammer12138/CampusNetworkForSTDU/tree/c47eb775a424230cd7329ea65b55508c99c3df3d/Hardwave//images/8.png)
+   ![IP](../.gitbook/assets/8.png)
 
 5. 点击确定，再点击确定退出属性界面
 

@@ -19,7 +19,7 @@
 
   输入账号密码登陆即可
 
-  ![IP](https://github.com/Dreammer12138/CampusNetworkForSTDU/tree/c47eb775a424230cd7329ea65b55508c99c3df3d/Hardwave//images/9.png)
+  ![IP](../.gitbook/assets/9.png)
 
 ## Linux / Mac OS 系统
 
