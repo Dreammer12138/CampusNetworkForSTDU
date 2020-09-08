@@ -1,13 +1,13 @@
-# Summary
+# Table of contents
 
 * [简介](README.md)
-* [网络](Network/README.md)
-  * [校园网注册](Network/校园网注册.md)
-  * [开通WiFi](Network/开通WiFi.md)
-  * [校园网缴费](Network/校园网缴费.md)
-* [硬件](Hardwave/README.md)
-  * [准备](Hardwave/准备.md)
-  * [配置设备](Hardwave/配置设备.md)
-  * [校园网认证](Hardwave/校园网认证.md)
+* [网络](network/README.md)
+  * [校园网注册](network/xiao-yuan-wang-zhu-ce.md)
+  * [开通WiFi](network/kai-tong-wifi.md)
+  * [校园网缴费](network/xiao-yuan-wang-jiao-fei.md)
+* [硬件](hardwave/README.md)
+  * [准备](hardwave/zhun-bei.md)
+  * [配置设备](hardwave/pei-zhi-she-bei.md)
+  * [校园网认证](hardwave/xiao-yuan-wang-ren-zheng.md)
+* [故障处理](gu-zhang-chu-li.md)
 
-- [故障处理](故障处理/README.md)
