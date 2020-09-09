@@ -1,6 +1,6 @@
 # 校园网注册
 
-## 1. 在任意一台可以连接校园网的电脑上登录“石家庄铁道大学自助服务中心”（[http://info.stdu.edu.cn](http://info.stdu.edu.cn)）;
+## 1. 在任意一台可以连接校园网的电脑上登录“[石家庄铁道大学自助服务中心](http://info.stdu.edu.cn)”;
 
 ![&#x81EA;&#x52A9;&#x670D;&#x52A1;](../.gitbook/assets/1.png)
 
