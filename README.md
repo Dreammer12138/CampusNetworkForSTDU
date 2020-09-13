@@ -8,11 +8,11 @@
 
 * 电子邮箱：514677151@qq.com
 
-![E - Mail](.gitbook/assets/32c60839bb24bc378e3f8988cbaf57e3.png)
+![E - Mail](images/32c60839bb24bc378e3f8988cbaf57e3.png)
 
 * QQ群：784383637（e家人互助交流园地）
 
-![QQ &#x7FA4;](.gitbook/assets/qq_group.png)
+![QQ &#x7FA4;](images/qq_group.png)
 
 有不懂的地方可以通过电子邮箱给我留言。有空的时候我会查看并回复（QQ暂时不加人了）。
 

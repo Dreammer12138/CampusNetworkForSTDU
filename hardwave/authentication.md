@@ -19,7 +19,7 @@
 
   输入账号密码登陆即可
 
-  ![IP](../.gitbook/assets/9.png)
+  ![IP](../images/9.png)
 
 ## Linux / Mac OS 系统
 
